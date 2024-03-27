@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+*{
+  margin: 1px;
+  padding: 1px;
+  box-sizing:border-box;
+}
+
+body{
+  font-family: "Manrope",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',sans-serif;
+  /* font-size: 600px; */
+}
